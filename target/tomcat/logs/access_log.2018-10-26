@@ -1,0 +1,10 @@
+0:0:0:0:0:0:0:1 - - [26/Oct/2018:16:38:02 +0800] "GET /maf/a?login HTTP/1.1" 404 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [26/Oct/2018:16:38:16 +0800] "GET /mafserver/index.jsp HTTP/1.1" 200 271 http-bio-8080-exec-7 1324
+0:0:0:0:0:0:0:1 - - [26/Oct/2018:16:38:16 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-7 0
+0:0:0:0:0:0:0:1 - - [26/Oct/2018:16:38:22 +0800] "GET /mafserver/hello HTTP/1.1" 200 286 http-bio-8080-exec-7 208
+0:0:0:0:0:0:0:1 - - [26/Oct/2018:16:41:15 +0800] "GET /mafserver/getExecuteManageList HTTP/1.1" 500 4197 http-bio-8080-exec-3 59
+0:0:0:0:0:0:0:1 - - [26/Oct/2018:16:42:55 +0800] "GET /mafserver/getExecuteManageList HTTP/1.1" 500 4197 http-bio-8080-exec-4 21669
+0:0:0:0:0:0:0:1 - - [26/Oct/2018:16:57:00 +0800] "GET /maf/a?login HTTP/1.1" 404 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [26/Oct/2018:16:57:09 +0800] "GET /mafserver/hello HTTP/1.1" 200 286 http-bio-8080-exec-6 185
+0:0:0:0:0:0:0:1 - - [26/Oct/2018:16:57:18 +0800] "GET /mafserver/hello HTTP/1.1" 200 286 http-bio-8080-exec-7 6
+0:0:0:0:0:0:0:1 - - [26/Oct/2018:17:07:59 +0800] "GET /mafserver/getExecuteManageList HTTP/1.1" 200 167986 http-bio-8080-exec-1 12297
